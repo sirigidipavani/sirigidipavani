@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:aira0pavs@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/36/000000/gmail.png" alt="email"/></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavaniaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavaniaira" height="30" width="40" /></a>
+<a href="mailto:aira0pavs@gmail.com"><img align="center" src="https://cdn.jim-nielsen.com/ios/512/gmail-2015-07-30.png?rf=1024" alt="gmail" width="40" height="40"/></a> <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavaniaira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pavaniaira" height="30" width="40" /></a>
 <a href="https://instagram.com/pavani___pavs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavani___pavs" height="30" width="40" /></a> <a href="https://x.com/Pavani_Sirigidi" target="_blank" rel="noreferrer"> <img align="center" src="https://cdn.jim-nielsen.com/ios/1024/twitter-2013-10-08.png?rf=1024" alt="twitter" width="40" height="40"/>
 </p>
 
